@@ -1,0 +1,4 @@
+# Encrypted files
+base/secret.yml
+.gitsecret/keys/random_seed
+prod/another_secret.yml
