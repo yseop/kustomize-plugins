@@ -1,0 +1,8 @@
+---
+apiVersion: yseop.com/v1alpha1
+kind: Kubesec
+metadata:
+  name: notImportantHere
+behavior: merge
+files:
+  - passwords.yml
